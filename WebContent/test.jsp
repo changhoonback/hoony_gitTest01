@@ -8,7 +8,8 @@
 <body>
 <%
   String id = "hoony";
+int idd =10;
 %>
-<%=id %>
+
 </body>
 </html>
